@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Kruy Seyha**, a passionate **Software Engineering Student** from **Cambodia**. I love building things,solving problems, exploring new technologies and LEARNING is my habbit.
+Hi there! I'm **Kruy Seyha**, a passionate **Software Engineering Student** from **Cambodia**. I love building things, solving problems, exploring new technologies and LEARNING is my habbit.
 
 - Currently studying **Software Engineering**
 - Interested in **Backend Systems**, **Databases**, and **Web Development**
@@ -41,7 +41,7 @@ Hi there! I'm **Kruy Seyha**, a passionate **Software Engineering Student** from
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,react,js,express,nodejs,mysql,github,git,unity,blender,cs,html,css,dart,flutter,next,prisma,vscode,linkedin&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,react,js,express,nodejs,mysql,github,git,unity,blender,cs,html,css,dart,flutter,next,prisma,vscode&theme=dark&perline=10" alt="Tech Stack" />
 </p>
 
 **Languages & Frameworks:** Java • C • C++ • C# • JavaScript • Dart • HTML • CSS
